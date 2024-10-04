@@ -3,7 +3,11 @@
 :root{
     --bg-color:#151515;
     --primary-color:#A91D3A;
-    --secundary-color:#A0D683;
+    --secundary-color:#62d027;
     --font:" Righteous", sans-serif;
 
+}
+
+body{
+    background-color: var(--bg-color);
 }
