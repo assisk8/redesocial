@@ -16,7 +16,7 @@ body{
     margin: 0%;
 }
 header{
-    background-color: var(--primary-color);
+    background-color: var(--bg-color);
     text-align: center;
 }
 
